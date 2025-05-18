@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-👉 [Try it here](https://gradient-descent-vis.netlify.app/)
+👉 [Try it here]((https://loss-function-visualizer.vercel.app/))
 
 ---
 
